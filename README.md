@@ -86,37 +86,7 @@ You should navigate to your forked repository, and press the "Compare & pull req
 GitHub will alert you that you can merge the two branches because there is no competing code. You should add in a title, a comment, and then press the “Create pull request” button.
 
 
-
-
 <br>
-
-
- <h1 align=center> Project Admin ❤️ </h1>
-<p align="center">
-
-<table>
-  <tbody><tr>
- <td align="center"><a href="https://github.com/jinshah93"><img alt="" src="https://avatars.githubusercontent.com/u/56799372?v=4" width="130px;"><br><sub><b> Jinal Shah</b></sub></a><br><a href="https://github.com/jinshah93/WEB-DEVELOPMENT/commits?author=jinshah93" title="Code">💻 </a></td> </a></td>
-
-</tbody></table>
-
-
-
-<h2 align=center> ✨ Contributors </h2>
-
-Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributions** of any kind are welcome! 
-
-<table>
-	<tr>
-		 <td>
-  		<a href="https://github.com/jinshah93/WEB-DEVELOPMENT/graphs/contributors">
-  			<img src="https://contributors-img.web.app/image?repo=jinshah93/WEB-DEVELOPMENT" />
-  		</a>
-		</td>
-	</tr>
-</table>
-<br>
-
 ## License
 
 ![License](https://img.shields.io/badge/license-MIT%20License-blue.svg)
